@@ -19,3 +19,14 @@ copying from remote location (GitHub) or local folder to another local folder. F
 What is the benefit of having a copy of the last known state of the remote stored
  locally?
  - We can resolve conflicts between local and remote repo.
+
+How would you collaborate without using Git or GitHub? 
+What would be easier, and what would be harder?
+- It would be much harder becase we need to keep track of changes and versions and
+exchange files with changes manually.
+
+When would you want to make changes in a separate branch rather than directly 
+in master? What benefits does each approach have?
+
+- A separate branch means new experiments with source files of main branch. You are
+free to experiment knowing that you main source code is safe.
